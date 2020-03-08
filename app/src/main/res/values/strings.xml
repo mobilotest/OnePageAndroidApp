@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Welcome to New Life Church</string>
+    <string name="phone">(650) 967-3453</string>
+    <string name="email">newlifechurch_mountainview@comcast.net</string>
+    <string name="sunday_one">Sunday Morning Service: 10:30 am</string>
+    <string name="sunday_two">Sunday Night Bible Study: 5:00 pm</string>
+    <string name="tuesday">Tuesday Prayer Night: 7:00 pm</string>
+    <string name="slogan_one">We are a Caring Church for a Hurting World</string>
+    <string name="slogan_two">We don’t care where you have been…</string>
+    <string name="slogan_three">We only care where you are going!</string>
+</resources>
