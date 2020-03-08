@@ -2,7 +2,7 @@
 
 Single screen app that displays information about a fictional small business.
 
-App's design include:
+App design includes:
 
 Business name
 One photo representing the business
