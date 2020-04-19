@@ -1,0 +1,7 @@
+#Sun Apr 19 10:02:03 PDT 2020
+base.0=/Users/sergooo/workspace/new_life_church/app/build/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/sergooo/workspace/new_life_church/app/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex
